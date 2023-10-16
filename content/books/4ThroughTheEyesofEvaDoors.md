@@ -1,4 +1,4 @@
-+++style
++++
 title = "Through The Eyes of Eva Doors"
 categories = ["books","supernatural"]
 banner = "/4. Through The Eyes of Eva Doors.jpg"
