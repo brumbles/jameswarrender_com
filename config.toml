@@ -45,121 +45,121 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "The Bewitching Tale of Malleus Froom"
-    url        = "/books/20.TheBewitchingTaleofMalleusFroom"
+    url        = "/books/20TheBewitchingTaleofMalleusFroom"
     weight     = 1
     parent     = "section.subbooks"
 
 [[menu.main]]
     name       = "Scenes From A Haunted House 3"
-    url        = "/books/19.ScenesFromAHauntedHouse3"
+    url        = "/books/19ScenesFromAHauntedHouse3"
     weight     = 2
     parent     = "section.subbooks"
 
 [[menu.main]]
     name       = "The Repetigwyn Children in The Water Merendelle's Curse"
-    url        = "/books/18.TheRepetigwynChildrenTheWaterMerendellesCurse"
+    url        = "/books/18TheRepetigwynChildrenTheWaterMerendellesCurse"
     weight     = 3
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Trevor and the Haunted House"
-    url        = "/books/17.TrevorandtheHauntedHouse"
+    url        = "/books/17TrevorandtheHauntedHouse"
     weight     = 4
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "The Repetigwyn Children in Ravastrene's Fire"
-    url        = "/books/16.TheRepetigwynChildrenRavastrenesFire"
+    url        = "/books/16TheRepetigwynChildrenRavastrenesFire"
     weight     =5
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Ashes of Autumn Falls"
-    url        = "/books/15.AshesofAutumnFalls"
+    url        = "/books/15AshesofAutumnFalls"
     weight     = 6
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "The Whispering Massacre "
-    url        = "/books/14.TheWhisperingMassacre"
+    url        = "/books/14TheWhisperingMassacre"
     weight     = 7
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "My Daughter The Devil"
-    url        = "/books/13.MyDaughterTheDevil"
+    url        = "/books/13MyDaughterTheDevil"
     weight     = 8
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Fear Rebecca Anson"
-    url        = "/books/12.FearRebeccaAnson"
+    url        = "/books/12FearRebeccaAnson"
     weight     = 9
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Something Rotten This Way Comes"
-    url        = "/books/11.SomethingRottenThisWayComes"
+    url        = "/books/11SomethingRottenThisWayComes"
     weight     = 10
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Scenes From A Haunted House 2: Extreme Paranormal "
-    url        = "/books/10.ScenesFromAHauntedHouse2"
+    url        = "/books/10ScenesFromAHauntedHouse2"
     weight     = 11
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "When Molly Hayden Disappeared"
-    url        = "/books/9.WhenMollyHaydenDisappeared"
+    url        = "/books/9WhenMollyHaydenDisappeared"
     weight     = 12
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Scenes From A Haunted House"
-    url        = "/books/8.ScenesFromAHauntedHouse"
+    url        = "/books/8ScenesFromAHauntedHouse"
     weight     = 13
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Somewhere, After Midnight"
-    url        = "/books/7.SomewhereAfterMidnight"
+    url        = "/books/7SomewhereAfterMidnight"
     weight     = 14
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "These Cold Walls of Thunder Bay"
-    url        = "/books/6.TheseColdWallsOfThunderBay"
+    url        = "/books/6TheseColdWallsOfThunderBay"
     weight     = 15
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Around the World in One Hundred Haunts"
-    url        = "/books/5.AroundtheWorldinOneHundredHaunts"
+    url        = "/books/5AroundtheWorldinOneHundredHaunts"
     weight     = 16
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Through The Eyes of Eva Doors"
-    url        = "/books/4.ThroughTheEyesofEvaDoors"
+    url        = "/books/4ThroughTheEyesofEvaDoors"
     weight     = 17
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Thoughts From The Mind's Eye"
-    url        = "/books/3.ThoughtsFromTheMindsEye"
+    url        = "/books/3ThoughtsFromTheMindsEye"
     weight     = 18
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "The Paranormal Principle"
-    url        = "/books/2.TheParanormalPrinciple"
+    url        = "/books/2TheParanormalPrinciple"
     weight     = 19
     parent     = "section.subbooks"
     
 [[menu.main]]
     name       = "Angels of the Odd"
-    url        = "/books/1.angels"
+    url        = "/books/1angels"
     weight     = 20
     parent     = "section.subbooks"
 
